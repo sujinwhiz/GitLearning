@@ -1,12 +1,15 @@
 currently learning about git and GitHub commands at 7.27 pm on 14/09/2024
 
+// initialize git in the current directory
+*******  git init  *******
+
 // clone the repository
 *******  git clone repLink  *******
 
 // added to staging area, now any changes in this file is tracked by Git
 *******  git add filename  *******  (or)
 
-// add all file to the staging area for the current directory
+// add all file to the staging area from the current directory
 ******* git add . *******
 
 *******  git commit -m "message" *******
@@ -15,8 +18,22 @@ currently learning about git and GitHub commands at 7.27 pm on 14/09/2024
 *******  git push origin branch name *******
 
 // to view branches in the current repository
-*******  git branch  *******
+*******  git branch  ******* (or) *******  git branch -a  *******
 
+>> Before create branch don't forget to commit the changes
 
+// to create branch
+*******  git branch branch name  *******
+
+>> After creating branch don't forget to push it in the rep (git push origin newBranchname )
+
+// to switch branches
+*******  git checkout branchname *******
+
+// to remove file from the staged area
+*******  git reset filaname  *******
+
+// to change repository
+*******  git remote add origin repLink *******
 
 
