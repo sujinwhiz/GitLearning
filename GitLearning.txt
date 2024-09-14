@@ -1,3 +1,21 @@
 currently learning about git and GitHub commands at 7.27 pm on 14/09/2024
 
+// clone the repository
 *******  git clone repLink  *******
+
+// added to staging area, now any changes in this file is tracked by Git
+*******  git add filename  *******  (or)
+
+// add all file to the staging area for the current directory
+******* git add . *******
+
+*******  git commit -m "message" *******
+
+// added local file to the git repository
+*******  git push origin branch name *******
+
+// to view branches in the current repository
+*******  git branch  *******
+
+
+
