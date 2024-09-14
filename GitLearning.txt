@@ -1,1 +1,3 @@
-currently learning about git and github commands at 7.27 pm on 14/09/2024
+currently learning about git and GitHub commands at 7.27 pm on 14/09/2024
+
+*******  git clone repLink  *******
