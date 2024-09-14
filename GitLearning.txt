@@ -17,5 +17,9 @@ currently learning about git and GitHub commands at 7.27 pm on 14/09/2024
 // to view branches in the current repository
 *******  git branch  *******
 
+// to create new branch
+*******  git branch branch name *******
 
+// to switch branch
+*******  git checkout branch name  *******
 
